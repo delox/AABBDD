@@ -16,7 +16,7 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Lessons@asd.coverage" NAME="asd Coverage Results" MODIFIED="1391534347196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Lessons" />
-    <SUITE FILE_PATH="coverage/Lessons@main.coverage" NAME="main Coverage Results" MODIFIED="1391718887500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Lessons" />
+    <SUITE FILE_PATH="coverage/Lessons@main.coverage" NAME="main Coverage Results" MODIFIED="1391719177755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Lessons" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -33,7 +33,7 @@
       <file leaf-file-name="main.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.027113238" vertical-offset="0" max-vertical-offset="833">
+            <state line="1" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="-0.3014354" vertical-offset="206" max-vertical-offset="833">
               <folding />
             </state>
           </provider>
@@ -42,7 +42,7 @@
       <file leaf-file-name="funciones.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/funciones.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="10" selection-start="1463" selection-end="1463" vertical-scroll-proportion="0.0" vertical-offset="427" max-vertical-offset="1156">
+            <state line="55" column="39" selection-start="1516" selection-end="1516" vertical-scroll-proportion="0.0" vertical-offset="529" max-vertical-offset="1156">
               <folding />
             </state>
           </provider>
@@ -70,8 +70,8 @@
         <option value="$PROJECT_DIR$/asd.rb" />
         <option value="$PROJECT_DIR$/mssql.rb" />
         <option value="$PROJECT_DIR$/configurame.rb" />
-        <option value="$PROJECT_DIR$/funciones.rb" />
         <option value="$PROJECT_DIR$/main.rb" />
+        <option value="$PROJECT_DIR$/funciones.rb" />
       </list>
     </option>
   </component>
@@ -272,14 +272,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -355,14 +355,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/funciones.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="10" selection-start="1463" selection-end="1463" vertical-scroll-proportion="0.0" vertical-offset="427" max-vertical-offset="1156">
+        <state line="55" column="39" selection-start="1516" selection-end="1516" vertical-scroll-proportion="0.0" vertical-offset="529" max-vertical-offset="1156">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="0.027113238" vertical-offset="0" max-vertical-offset="833">
+        <state line="1" column="0" selection-start="57" selection-end="57" vertical-scroll-proportion="-0.3014354" vertical-offset="206" max-vertical-offset="833">
           <folding />
         </state>
       </provider>

@@ -53,7 +53,7 @@ def leer_tiempos(fuente,cant_consultas=3)
 
 end
 
-def almacenar_tiempos(servidores)
+def almacenar_tiempos(servidores,fuente)
   servidores.each do |index_servidor,info_servidor|
     tiempos_temp = info_servidor[:tiempos]
     con = Sequel.connect(fuente)

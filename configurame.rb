@@ -5,7 +5,7 @@ $servidores =
     {
 
         :sqlserver => {
-            :conn_string => {:database => 'SqlExpress', :user => "root", :password => "kasikes" },
+            :conn_string => {:database => 'SqlExpress', :user => "root", :password => "" },
             :inicio => "NET START MSSQL$SQLEXPRESS",
             :apagado => "NET STOP MSSQL$SQLEXPRESS",
             :tiempos => {
@@ -22,7 +22,7 @@ $servidores =
             }
         },
         :postgres => {
-            :conn_string => 'postgres://admin:kasikes@localhost:5432/licom',
+            :conn_string => 'postgres://admin:pass@localhost:port/licom',
             :inicio => '"C:\\Archivos de Programa\\PostgreSQL\\9.3\\bin\\postgres" -D "C:\\Archivos de Programa\\PostgreSQL\\9.3\\data"',
             :apagado => '"C:\\Archivos de Programa\\PostgreSQL\\9.3\\bin\\pg_ctl" stop -D "C:\\Archivos de Programa\\PostgreSQL\\9.3\\data" -m fast',
             :tiempos => {
@@ -35,5 +35,5 @@ $fuente =
     {
         :adapter=>'ado',
         :conn_string=>'Provider=Microsoft.ACE.OLEDB.12.0;' +
-            'Data Source=C:\\Users\\Jose Solorzano\Documents\\AABBDD.accdb'
+            'Data Source=C:\\Users\\admin\Documents\\AABBDD.accdb'
     }
